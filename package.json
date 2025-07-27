@@ -1,0 +1,19 @@
+{
+  "name": "krishichain",
+  "private": true,
+  "scripts": {
+    "chain": "hardhat node",
+    "deploy": "hardhat run scripts/deploy.js --network localhost",
+    "compile": "hardhat compile",
+    "web": "cd frontend && npm run dev",
+    "dev": "concurrently \"npm run chain\" \"npm run deploy && npm run web\""
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "concurrently": "^8.2.0",
+    "dotenv": "^16.4.0",
+    "hardhat": "^2.22.0",
+    "hardhat-abi-exporter": "^2.10.1"
+  }
+}
