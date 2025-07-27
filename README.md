@@ -131,6 +131,6 @@ Open a Pull Request
 This project is distributed under the MIT License. See LICENSE for more information.
 
 📬 Contact
-Adarsh - [Your Twitter/LinkedIn/Email] - adarshkscodes@gmail.com
+Adarsh - Email] - adarshkscodes@gmail.com
 
 Project Link: https://github.com/adarshkscodes/KrishiChain
