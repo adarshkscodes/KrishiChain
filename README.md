@@ -1,4 +1,4 @@
-🌾 KrishiChain: A Decentralized Agricultural Supply Chain
+🌾 KrishiChain: A Decentralized Agricultural Supply Chain !
 
 KrishiChain is a full-stack decentralized application (dApp) built to bring transparency, traceability, and trust to the agricultural supply chain. By leveraging blockchain technology, it connects farmers directly with buyers, ensuring fair and secure transactions through smart contract-based escrow and rewarding participants with a native ERC-20 token.
 
